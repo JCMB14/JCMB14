@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Student
-- 🌱 I’m currently learning React Node.js, JavaScript, Css and HTML
+- 🌱 I’m currently learning Node.js, JavaScript, Css and HTML
 - 👯 I’m looking to collaborate on develop in software and web
 - 🤔 I’m looking for help with learn more programming and expand my knowledge 
 - 💬 Ask me about ...
